@@ -118,6 +118,7 @@
 #else /* def _WIN32 */
 # include <unistd.h>
 # include <netdb.h>
+# include <netinet/in.h>
 # include <sys/socket.h>
 # ifdef USE_FCNTL
 #  include <fcntl.h>
