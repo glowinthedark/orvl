@@ -1,0 +1,11 @@
+
+ORVL -- Source kit.  Version 0.2  2017-03-27.
+
+ORVL is a portable (C-language) control program for Orvibo (S20)
+devices.  ORVL runs on UNIX, UNIX-like, VMS, and Windows systems, and
+has a command-line interface.
+
+See enclosed files: artistic_license_2_0.txt and orvl.txt.
+
+For information on ORVL: http://antinode.info/orvl/orvl.html
+
